@@ -1,4 +1,4 @@
-# Clase 5 — Funciones y datos: números complejos
+# Ejercicio 5 — Funciones y datos: números complejos
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
